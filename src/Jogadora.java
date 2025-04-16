@@ -13,7 +13,7 @@ public class Jogadora implements OperacaoCadastro{
 
     @Override
     public void cadastrar() {
-        System.out.println("A jogadora " + nome + "foi cadastrada com sucesso!");
+        System.out.println("A jogadora " + nome + " foi cadastrada com sucesso!");
     }
 
     public String getNome() {
